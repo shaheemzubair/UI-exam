@@ -1,0 +1,33 @@
+#sub1-1{
+    height: 300px;
+    width: 600px;
+}
+#sub1-1 .btn{
+    border-radius: 0%;
+}
+#sub1-1 a{
+    color: rgb(255, 183, 0);
+    text-decoration: none;
+}
+#div2-1{
+    text-align: center;
+    border-right: 1px solid black;
+}
+#div2-1 a{
+    color: rgb(255, 183, 0);
+    text-decoration: none;
+}
+#div2-2 #para1{
+    color: aliceblue;
+    text-align: center;
+    padding-inline: 145px;
+}
+#div2-2 img{
+    border-radius: 100%;
+    width: 250px;
+    height: 250px;
+    margin-top: 40px;
+}
+#div2-2 #para2{
+    text-align: center;
+}
